@@ -8,7 +8,7 @@
                                                                              */
 
 
-
+// Maximum size of the structure
 
 
 #include <stdio.h>
