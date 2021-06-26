@@ -1,3 +1,5 @@
+/* C programme for half diamond
+
 #include <stdio.h>
 #include <stdlib.h>
 
