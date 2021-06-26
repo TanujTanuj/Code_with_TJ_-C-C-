@@ -1,3 +1,5 @@
+/* Programme -- Array Multiplication */
+
 #include <stdio.h>
 #include <stdlib.h>
 
