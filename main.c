@@ -1,3 +1,5 @@
+// C programme for removing duplicate number from  the array 
+
 #include <stdio.h>
 
 
