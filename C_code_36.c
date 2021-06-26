@@ -1,3 +1,5 @@
+/*  C programme for file handling */
+
 #include <stdio.h>
 #include <stdlib.h>
 
