@@ -4,7 +4,7 @@
 */
 
 
-
+/* C programme for union member declaration
 
 #include <stdio.h>
 
