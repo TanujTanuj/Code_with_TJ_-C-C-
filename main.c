@@ -1,3 +1,4 @@
+//C programme to check wheather anumber is prime or not
 #include <stdio.h>
 int main()
 {
