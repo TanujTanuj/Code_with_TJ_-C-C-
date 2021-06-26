@@ -1,3 +1,5 @@
+// C programme for half pyramid
+
 #include <stdio.h>
 
 
