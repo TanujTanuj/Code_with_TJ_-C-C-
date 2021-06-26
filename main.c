@@ -1,3 +1,5 @@
+/* C programme for complete pyramid
+
 #include <stdio.h>
 
 
